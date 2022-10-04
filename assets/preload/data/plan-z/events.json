@@ -1,0 +1,259 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Plan-Z",
+		"player1": "spongebob",
+		"player2": "neptune",
+		"player3": null,
+		"events": [
+			[
+				105685.714285714,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				105857.142857143,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				106028.571428571,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				106200,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				106371.428571428,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				106542.857142857,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				106714.285714286,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				106885.714285714,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				107057.142857143,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				107228.571428571,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				107400,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				107571.428571428,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				107742.857142857,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				107914.285714286,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				108085.714285714,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				108257.142857143,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				108428.571428571,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				108600,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				108771.428571428,
+				[
+					[
+						"Play Animation",
+						"turno2",
+						"bf"
+					]
+				]
+			],
+			[
+				108942.857142857,
+				[
+					[
+						"Play Animation",
+						"turno",
+						"bf"
+					]
+				]
+			],
+			[
+				109114.285714286,
+				[
+					[
+						"Play Animation",
+						"cacahuate",
+						"bf"
+					]
+				]
+			],
+			[
+				111428.571428571,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			],
+			[
+				111514.285714286,
+				[
+					[
+						"cacahuate ",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				112800,
+				[
+					[
+						"cacahuate ",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "PatLegs",
+		"bpm": 175,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "plan-z"
+	}
+}
