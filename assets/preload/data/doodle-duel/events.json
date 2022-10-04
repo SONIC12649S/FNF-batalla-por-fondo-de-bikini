@@ -1,0 +1,569 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "BOB Trazo X BF BESTO SHIP XD,NT",
+		"player1": "bf",
+		"player2": "doodlebob",
+		"player3": null,
+		"events": [
+			[
+				65555.5555555556,
+				[
+					[
+						"Trazo ",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				65740.7407407407,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				65833.3333333333,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				65925.9259259259,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66018.5185185185,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66111.1111111111,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66203.7037037037,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66296.2962962963,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66388.8888888889,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66481.4814814815,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66574.0740740741,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66666.6666666667,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66759.2592592593,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66851.8518518519,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				66944.4444444445,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67037.037037037,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67129.6296296296,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67222.2222222222,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67314.8148148148,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67407.4074074074,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67500,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67592.5925925926,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67685.1851851852,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67777.7777777778,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67870.3703703704,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				67962.962962963,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68055.5555555556,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68148.1481481481,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68240.7407407407,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68333.3333333333,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68425.9259259259,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68518.5185185185,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68611.1111111111,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68703.7037037037,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68796.2962962963,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68888.8888888889,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				68981.4814814815,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69074.0740740741,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69166.6666666667,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69259.2592592593,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69351.8518518519,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69444.4444444444,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69537.037037037,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69629.6296296296,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69722.2222222222,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69814.8148148148,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				69907.4074074074,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				70092.5925925926,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				70185.1851851852,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				70277.7777777778,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				70370.3703703704,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				70462.9629629629,
+				[
+					[
+						"Play Animation",
+						"you3",
+						"dad"
+					]
+				]
+			],
+			[
+				70740.7407407407,
+				[
+					[
+						"Trazo ",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				106851.851851852,
+				[
+					[
+						"Play Animation",
+						"you",
+						"dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "MermaidGF2",
+		"bpm": 162,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "doodle-duel"
+	}
+}
