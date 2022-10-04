@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "tenta",
+			"indices": [],
+			"name": "taunt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Robosquid",
+	"position": [
+		-100,
+		380
+	],
+	"healthicon": "squid",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		88,
+		145
+	],
+	"camera_position": [
+		10,
+		-480
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

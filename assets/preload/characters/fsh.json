@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fsh idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fsh up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fsh left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fsh down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fsh right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fsh",
+	"position": [
+		-260,
+		100
+	],
+	"healthicon": "fsh",
+	"flip_x": false,
+	"healthbar_colors": [
+		109,
+		100,
+		50
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

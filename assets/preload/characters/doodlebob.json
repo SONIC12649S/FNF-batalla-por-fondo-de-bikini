@@ -1,15 +1,81 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "robosandy angry down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "robosandy angry left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "robosandy angry right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "robosandy angry up",
+			"indices": []
+		},
+		{
 			"offsets": [
 				0,
 				110
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "sandia",
 			"indices": [],
-			"name": "fish bf left0"
+			"name": "robosandy taunt"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sandia-con-chile",
+			"indices": [],
+			"name": "robosandy whoop"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "doodlebob idle"
 		},
 		{
 			"offsets": [
@@ -20,7 +86,7 @@
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "fish bf up0"
+			"name": "doodlebob up"
 		},
 		{
 			"offsets": [
@@ -29,193 +95,116 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "fish bf left miss0"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "fish bf down miss0"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "fish bf up miss0"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "fish bf right miss0"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "fish bf hey"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "fish bf scratch"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				0,
-				110
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				110
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "fish bf idle0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				110
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "fish bf down0",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				110
-			],
 			"anim": "singRIGHT",
+			"indices": [],
+			"name": "doodlebob right"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
 			"fps": 24,
-			"name": "fish bf right0",
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "doodlebob left"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "doodlebob down"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "doodlebob cheer"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "you2",
+			"fps": 24,
+			"name": "doodlebob flipOff",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "you idle",
+			"fps": 24,
+			"name": "doodlebob finishedDoodle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "you3",
+			"fps": 24,
+			"name": "doodlebob loopDoodle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "you1",
+			"fps": 24,
+			"name": "doodlebob doodling0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "you",
+			"fps": 15,
+			"name": "doodlebob you",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND2",
+	"image": "characters/doodlebob",
 	"position": [
-		0,
-		350
+		-40,
+		430
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "face1",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		161,
+		161,
+		161
 	],
 	"camera_position": [
 		0,
 		0
 	],
-	"sing_duration": 4,
-	"scale": 0.8
+	"sing_duration": 6.1,
+	"scale": 1.1
 }

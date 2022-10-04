@@ -1,0 +1,329 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				500
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				500
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				500
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				500
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				500
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "miss left"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "miss up"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "miss down"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "miss right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				500
+			],
+			"anim": "turno2",
+			"fps": 24,
+			"name": "scatting",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "airUp"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "airDown"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "airRight"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "airLeft"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "airIdle"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss-alt",
+			"indices": [],
+			"name": "miss airLeft"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss-alt",
+			"indices": [],
+			"name": "miss airRight"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss-alt",
+			"indices": [],
+			"name": "miss airDown"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss-alt",
+			"indices": [],
+			"name": "miss airUp"
+		},
+		{
+			"offsets": [
+				0,
+				500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turno",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "turn"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				500
+			],
+			"anim": "cacahuate",
+			"fps": 12,
+			"name": "goober",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21,
+				21
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/spongebob",
+	"position": [
+		0,
+		770
+	],
+	"healthicon": "spongebob",
+	"flip_x": true,
+	"healthbar_colors": [
+		245,
+		231,
+		97
+	],
+	"camera_position": [
+		10,
+		-690
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

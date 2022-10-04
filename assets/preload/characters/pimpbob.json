@@ -1,0 +1,183 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "GANG_IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GANG_NOTE_LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GANG_NOTE_DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GANG_NOTE_UP"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GANG_NOTE_RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "money",
+			"indices": [],
+			"name": "GANG_NOTE_CORAL"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "GANG_NOTE_CORAL"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "GANG_IDLE"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "GANG_NOTE_LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "GANG_NOTE_RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "GANG_NOTE_UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				110
+			],
+			"anim": "money2",
+			"fps": 24,
+			"name": "GANG_NOTE_THUMB",
+			"indices": [
+				0,
+				1,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pimpbob",
+	"position": [
+		-260,
+		100
+	],
+	"healthicon": "pimpbob",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
